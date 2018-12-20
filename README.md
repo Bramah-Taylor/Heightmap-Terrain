@@ -1,5 +1,7 @@
 # Heightmap Terrains
 
+![An example of an island output using the application this code is taken from](https://github.com/Bramah-Taylor/Heightmap-Terrain/blob/master/exampleoutput.png "An example of an island output using the application this code is taken from")
+
 The code provided in this repository is designed to demonstrate C++ implementations of several procedural generation algorithms (listed below) for use in creating a heightmap, and applying that heightmap to a plane mesh on the CPU. This application uses DirectX 11 and DirectXTK, in addition to a lecturer-provided framework as part of coursework. The code provided here was originally intended to fulfil requirements of a coursework brief.
 
 The algorithms demonstrated here are as follows:
